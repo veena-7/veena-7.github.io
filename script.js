@@ -12,5 +12,8 @@ var newpic=function(){
     isdata1=true;
    }
    document.getElementById("mi").src=displaydata.image;
+   document.getElementById("mn").innerHTML=displaydata.name;
+   document.getElementById("mD").innerHTML=displaydata.designation;
+
    
 }
