@@ -1,5 +1,5 @@
-var data1 = {image:"veena-7/veena-7.github.io/abc.jpeg",name: "Yerraguntla Veena",designation:"Student"};
-var data2 = {image:"veena-7/veena-7.github.io/bcd.jpeg",name: "Y Veena",designation:"Intern"};
+var data1 = {image:"abc.jpeg",name: "Yerraguntla Veena",designation:"Student"};
+var data2 = {image:"bcd.jpeg",name: "Y Veena",designation:"Intern"};
 var isdata1 = true;
 var displaydata;
 var newpic=function(){
