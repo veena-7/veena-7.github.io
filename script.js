@@ -13,7 +13,7 @@ var newpic=function(){
    }
    document.getElementById("mi").src=displaydata.image;
    document.getElementById("mn").innerHTML=displaydata.name;
-   document.getElementById("mD").innerHTML=displaydata.designation;
+   document.getElementById("md").innerHTML=displaydata.designation;
 
    
 }
